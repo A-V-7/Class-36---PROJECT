@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+  color:aqua
+}
+
+h1 {
+  color:darkturquoise
+}
+
+h4 {
+  color:darkturquoise;
+
+}
+
+h3 {
+  color: rgb(75, 201, 193);
+}
